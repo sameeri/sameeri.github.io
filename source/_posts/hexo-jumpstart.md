@@ -1,6 +1,13 @@
-title: Hexo JumpStart
+title: Hexo Love
+date: 2014-9-18 11:21:36
+tags: Hexo
 ---
-This is the very first post created by [Hexo](http://hexo.io/)! A reference for myself. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [trobuleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+I have a blog, [Whack-Whack](http://www.whack-whack.info) up on Blogger. However, the recent hexo love from Jesse, 
+has inspired me and i also see how easy it is to take my texts out and write some **markdown** and deploy 
+it to github.**Hexo** is a great tool. It's [open sourced on github](https://github.com/hexojs/hexo) and i want to use it's awesomeness. 
+
+This is the very first post created by [Hexo](http://hexo.io/), when you run the
+**hexo new "post name"** command. I'm going to leave the simple steps included in the post.
 
 ## Quick Start
 
