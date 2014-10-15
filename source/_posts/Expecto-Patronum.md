@@ -1,8 +1,11 @@
 title: Expecto Patronum
 date: 2014-10-13 14:17:06
-tags: Positive Energy, Personality, Continuous Improvement, Life
+tags: 
+- Positive Energy
+- Personality
+- Continuous Improvement
+- Life
 ---
-Sai baba vinayakaya namaha!
 
 On the [*HarryPotter wiki*](http://harrypotter.wikia.com), the [`Patronous charm`](http://harrypotter.wikia.com/wiki/Patronus) is described as :
 >"The Patronus Charm (Expecto Patronum) is the most famous and one of the most powerful 
@@ -78,3 +81,5 @@ universe, that of God's, to help me out.
 >"Strength is life! Weakness is death." - Swami Vivekananda 
 
 >"Face the sun and shadows will fall behind." - Maori Proverb
+
+Saibaba	Vinayakaya Namaha!
